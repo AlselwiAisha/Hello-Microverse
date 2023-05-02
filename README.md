@@ -7,7 +7,6 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#Setup)
 - [👥 Authors](#authors)
@@ -28,29 +27,16 @@ It is a first introduction project in which we have to learn how to set up linte
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+I'm using mainly html and css for building this project.
 
-<details>
+> <details>
+
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -65,18 +51,7 @@ It is a first introduction project in which we have to learn how to set up linte
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-> To get a local copy up and running, follow these steps.
+- Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,8 +69,7 @@ It is a first introduction project in which we have to learn how to set up linte
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-> 👤 **Author**
+> 👤 **Aisha Alselwi**
 
 - GitHub: [@githubhandle](https://github.com/AlselwiAisha)
 
